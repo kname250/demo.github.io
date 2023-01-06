@@ -12,3 +12,4 @@
     <a href="itms-services://?action=download-manifest&url=https://kname250.github.io/demo.github.io/ipa.list">下载ios测试版</a><!--修改这里-->
 </body>
 </html>
+
