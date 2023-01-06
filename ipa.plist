@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://116.205.133.201/二零二三.ipa</string><!--修改这里-->
+                        <string>https://116.205.133.201/%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89.ipa</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
