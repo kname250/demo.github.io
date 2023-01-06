@@ -9,6 +9,6 @@
     <title>测试</title>
 </head>
 <body>
-    <a href="itms-services://?action=download-manifest&url=https://github.com/kname250/demo1/blob/main/ipa.list">下载ios测试版</a><!--修改这里-->
+    <a href="itms-services://?action=download-manifest&url=https://kname250.github.io/demo.github.io/ipa.list">下载ios测试版</a><!--修改这里-->
 </body>
 </html>
